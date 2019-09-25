@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - pg_view (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - pg_view (from `.symlinks/plugins/pg_view/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  pg_view:
+    :path: ".symlinks/plugins/pg_view/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  pg_view: ebe2caf536e8183c4c8a36e565c5450c8285e069
+
+PODFILE CHECKSUM: 64b2109b760ac9073c864e2a8278e6464efaa219
+
+COCOAPODS: 1.7.3
